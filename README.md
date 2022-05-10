@@ -1,1 +1,2 @@
-# Ice-Cream-SQL-Queries-in-R
+# Ice Cream SQL Queries in R
+This was an assignment from one of my classes using the data provided. We were able to use the sqldf package in R to make a dataframe that we can query with SQL syntax. I much prefer this way of going about SQL queries since no database setup is needed. This is preferable in situations where we don't need multiple users accessing the same info in a database. It's best used for SQL queries by an individual on a certain dataset. 
