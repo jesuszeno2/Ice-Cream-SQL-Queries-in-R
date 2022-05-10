@@ -1,0 +1,10 @@
+ID,Name,Nuts,Gluten,Lactose
+1,Chocolate,N,N,N
+2,Peanut Butter,Y,N,N
+3,Marshmallow,N,N,Y
+4,Caramel,N,N,N
+5,Strawberry,N,N,N
+6,Spiced Apple,N,N,N
+7,Pineapple,N,N,N
+8,Whipped Cream,N,N,Y
+9,Nuts,Y,N,N

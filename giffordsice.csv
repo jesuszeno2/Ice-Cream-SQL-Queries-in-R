@@ -1,0 +1,55 @@
+ID,Flavor,Type,Nuts,Lactose,Gluten,Sugar
+1,Apple Pie,I,N,Y,Y,Y
+2,Black Raspberry,I,N,Y,N,Y
+3,Black Raspberry,I,N,Y,N,N
+4,Black Raspberry Chocolate Chip,Y,N,N,N,Y
+5,Blueberry Oat Crumble,Y,N,N,Y,Y
+6,Butter Pecan,I,Y,Y,N,Y
+7,Cake Batter,I,N,Y,Y,Y
+8,Coffee,I,N,Y,N,Y
+9,Campfire S'mores,I,N,Y,Y,Y
+10,Caramel Caribou,I,N,Y,N,Y
+11,Cherry Blossom,I,N,Y,N,Y
+12,Chocolate,I,N,Y,N,Y
+13,Chocolate Chip,I,N,Y,N,Y
+14,Chocolate Lover's Chocolate,I,N,Y,N,Y
+15,Chocolate Peanut Butter,I,Y,Y,N,Y
+16,Chocolate Peanut Butter Cup,Y,Y,N,N,Y
+17,Coffee Heath Bar Crunch,Y,N,N,Y,Y
+18,Color Blast,I,N,Y,N,Y
+19,Cookie Dough,I,N,Y,Y,Y
+20,Cookies N' Cream,I,N,Y,Y,Y
+21,Cotton Candy,I,N,Y,N,Y
+22,Dark Chocolate Chocolate Chip,I,N,Y,N,Y
+23,Fly Fishing Fudge,I,Y,Y,N,Y
+24,French Vanilla,I,N,Y,N,Y
+25,Grapenuts,I,Y,Y,Y,Y
+26,I Scream for Cake,I,N,Y,Y,Y
+27,Maine Black Bear,I,N,Y,N,Y
+28,Maine Deer Tracks,I,N,Y,N,Y
+29,Maine Lobster Tracks,I,N,Y,N,Y
+30,Maine Wild Blueberry,I,N,Y,N,Y
+31,Maple Walnut,I,Y,Y,N,Y
+32,Mint Chocolate Chip,I,N,Y,N,Y
+33,Mississippi Mud Pie,I,N,Y,N,Y
+34,Mocha Chip,I,N,Y,N,Y
+35,Moo-slide,I,N,Y,N,Y
+36,Moose Tracks,I,N,Y,N,Y
+37,Muddy Boots,I,N,Y,N,Y
+38,Orange Pineapple,I,N,Y,N,Y
+39,Orange Sherbet,Sh,N,N,N,Y
+40,Peanut Butter Pie,I,Y,Y,Y,Y
+41,Pink Peppermint Stick,I,N,Y,N,Y
+42,Pistachio Nut,I,Y,Y,N,Y
+43,Power Play Fudge,I,N,Y,N,Y
+44,Pumpkin,I,N,Y,N,Y
+45,Rainbow Sherbet,Sh,N,N,N,Y
+46,Red Raspberry,So,N,N,N,Y
+47,Sea Salt Caramel Malt,I,N,Y,Y,Y
+48,Southern Peach,I,N,Y,N,Y
+49,Strawberry,I,N,Y,N,Y
+50,Strawberry Cheesecake,I,N,Y,Y,Y
+51,Strawberry Lemonade,So,N,N,N,Y
+52,Toasted Coconut,I,N,Y,N,Y
+53,Vanilla,I,N,Y,N,Y
+54,Vanilla with Raspberry Ripple,I,N,Y,N,N
