@@ -1,4 +1,4 @@
-# Jesus Zeno Assignment 6
+# Jesus Zeno
 
 # Let's start by installing the sql dataframe package
 install.packages("sqldf")
@@ -25,7 +25,7 @@ head(Customers)
 head(Sites)
 head(Orders)
 
-# 1. What are all possible distinct pairs of toppings?
+# 1. Show all possible distinct pairs of toppings
 query = "
 SELECT T1.Name AS Topping_1, T2.Name AS TOPPING_2
 FROM [Toppings] T1
@@ -36,7 +36,7 @@ Order By T1.Name
 sqldf(query)
 
 # 2. Transform the order table's set of scoops into two columns:  order and 
-# flavor.  Do the same for toppings as well.  Make sure you know which scoop
+# flavor.  Do the same for toppings as well.  Make sure we know which scoop
 # it was or which topping it was (i.e., first).
 
 # We are putting the order numbers and scoop flavors in two columns to save
@@ -67,7 +67,7 @@ orders_and_toppings=sqldf(query)
 head(orders_and_toppings)
 
 # 3. Project away the columns about scoops and toppings from the order table.
-# Note:  in combination with task 2, you have normalized the database.
+# Note:  in combination with task 2, we have normalized the database.
 query = "
 SELECT ID, Customer, Site, Date
 FROM Orders
